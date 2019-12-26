@@ -2,8 +2,7 @@
 
 
 English | [简体中文](./README.file/README.CN.md)
-<!-- <p align="center"><img src="https://tencent.github.io/omi/assets/omi-logo2019.svg" alt="omi" width="100"/></p> -->
-<!-- <p align="center"><img src="https://tencent.github.io/omi/assets/omi-v6.jpg" alt="omi" width="1000"/></p> -->
+<p align="center"><img src="./Background/tju_logo.png" alt="tju" width="200"/></p>
 <h2 align="center">Tju_Powerpoint_Template</h2>
 <p align="center"><b>This is a template for making powerpoint of Tianjin University with latex + beam</b></p>
 
